@@ -1,0 +1,8 @@
+1:"Run program as administrator"
+2:"Invalid file name"
+3:"Copy"
+4:"Connect"
+5:"Choose key"
+6:"Connecting..."
+7:"Cancel"
+8:"Terminate"
