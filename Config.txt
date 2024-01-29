@@ -1,0 +1,5 @@
+EncoderSpeed 0
+Gop 0
+Bitrate -1
+Framerate 60
+IsHardwareAccelerated 1
