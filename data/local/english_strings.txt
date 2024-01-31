@@ -6,3 +6,5 @@
 6:"Connecting..."
 7:"Cancel"
 8:"Terminate"
+9:"Add display"
+10:"Remove display"
